@@ -19,20 +19,20 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/rizky10179' // ubah aia
-global.ig = '@ikkybotz' // ubah aja
-global.email = 'rikzimm638@gmail.com' //serah
+global.youtube = 'https://youtube.com/c/DONUTGAMING492' // ubah aia
+global.ig = '@HYY.TAM04' // ubah aja
+global.email = 'yanticilgo@gmail.com' //serah
 global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.botname = 'Rizky Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Rizky Botz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Bug Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Buugg Botz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6283150688326'] // ubah aja pake nomor lu
-global.creator = "6283150688326@s.whatsapp.net"
-global.premium = ['6283150688326'] // ubah aja pake nomor lu
-global.packname = 'Rizky Botz' // ubah aja
-global.ownerr = ['Rizky Botz'] // ubaha aja
-global.author = 'Rizky Botz' //ubah aja
+global.owner = ['6283898398823'] // ubah aja pake nomor lu
+global.creator = "6283898398823@s.whatsapp.net"
+global.premium = ['6283898398823'] // ubah aja pake nomor lu
+global.packname = 'Tamzz Botz' // ubah aja
+global.ownerr = ['Tamzz Botz'] // ubaha aja
+global.author = 'Tamzz Botz' //ubah aja
 global.sp = '⭔' // Gausah Juga
 
 // Terserah
